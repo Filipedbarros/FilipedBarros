@@ -1,7 +1,7 @@
  
  Hi there! 👋
  
-My name is Filipe. I'm a Agronomic Engineer studying Software Development at Cubos Academy.
+My name is Filipe. I'm a Web developer and Agronomic Engineer
 
  <div style="display: inline_block"><br>
   <img align="center" alt="f-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
