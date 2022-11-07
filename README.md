@@ -1,8 +1,6 @@
  
  Hi there! 👋
  
-My name is Filipe. I'm a Web developer and Agronomic Engineer
-
 
  ----
 
